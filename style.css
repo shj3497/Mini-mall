@@ -39,7 +39,7 @@ li {
 
 .header {
   background-color: var(--color-green);
-  width: 100%;
+  width: 60%;
   text-align: center;
   margin-bottom: 30px;
   font-size: 30px;

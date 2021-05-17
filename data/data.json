@@ -35,6 +35,7 @@
       "color": "blue",
       "image": "./imgs/blue_s.png"
     },
+    
     {
       "type": "tshirt",
       "gender": "male",
